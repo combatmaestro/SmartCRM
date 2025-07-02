@@ -4,3 +4,13 @@
 -dashboard analytics(total customers , conversion rate , recent activity)
 -follow up reminders(Notofication API)
 -login system - Reqres dummy api 
+
+
+
+we are using reqres for dummy endpoints : https://reqres.in/
+
+-endpoints used : https://reqres.in/api/login
+{
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+}
