@@ -1,0 +1,6 @@
+-contact management(crud operations of customer profiles)
+-sales pipeline(lead->contacted->qualified->converted or not)
+-search&filters(filter by status , location , priority)
+-dashboard analytics(total customers , conversion rate , recent activity)
+-follow up reminders(Notofication API)
+-login system - Reqres dummy api 
